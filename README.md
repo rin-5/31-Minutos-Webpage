@@ -82,7 +82,7 @@ The original repo of this page is privated due to privacy concerns. Therefore, i
 https://proy-chatroom-31m.web.app
 
 
-If you wish to contact me in order to view the code, feel free to do so by opening a pull. (👍ᐛ )👍
+If you wish to contact me in order to view the code, feel free to do so by opening a pull request or an issue (I'm not sure which is better, I'm new to GitHub sorry). (👍ᐛ )👍
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
