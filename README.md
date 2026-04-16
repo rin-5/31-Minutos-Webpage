@@ -51,6 +51,16 @@ Along with it, and as the last thing in the homepage is a small red button that 
 Since there are no official nor unofficial RSS feeds about the series (or at least, none according to what I've searched), I have made an RSS feed of my own with a news relating to the page and another RSS news with info about the series' tour dates.
 In order to view it, click the button and copy the link to your RSS Feed viewer of choice!
 
+### About the Project: Importing and Exporting to and from Firebase Firestore
+Though the project required us utilizing Firebase's Realtime Database, I noticed a little too late that I used Firestore. Due to that, I have used Google AI —though I'm against it's use— to know how to use Firestore fully (or at least to some extent).<br/>
+That aside, you can import your own JSON, XML, CSV and XLSX files to the Firebase database and also export them! When importing a file to the database, a collection is created with the name of the file you uploaded. The APIs used were ExcelJS, Papaparse, DOMParser and File-Saver.<br/><br/>
+Here are some examples found in the page:<br/>
+[characters.json](https://proy-chatroom-31m.web.app/data/characters.json)<br/>
+[characters.csv](https://proy-chatroom-31m.web.app/data/characters.csv)<br/>
+[characters.xml](https://proy-chatroom-31m.web.app/data/characters.xml)<br/>
+[characters.xlsx](https://proy-chatroom-31m.web.app/data/characters.xlsx)<br/>
+<br/>
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
